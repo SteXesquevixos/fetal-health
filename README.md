@@ -11,7 +11,7 @@ Classificar a saúde de um feto em normal, suspeita ou patológica usando dados 
 
 Dados sobre a saúde do feto baseados na leitura de ardiotocograma, em inglês, Cardiotocograms (CTG). Disponível em:
 
-    <https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification/data>
+    https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification/data
 
 ## Objetivo
 
